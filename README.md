@@ -1,0 +1,1 @@
+O tema do projeto é o jardineiro onde você planta árvores e o objetivo é diminuir a temperatura do mundo em uma certa quantia de tempo, se a  temperatura for maior que o número de árvores você perde. 
